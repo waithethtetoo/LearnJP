@@ -29,4 +29,54 @@
 		<english>Living Room</english>
 		<romaji>ribingu ru-mu</romaji>
 	</word>
+
+	<word>
+		<english>Kitchen</english>
+		<romaji>Dai Dokoro</romaji>
+	</word>
+
+	<word>
+		<english>Kitchenware</english>
+		<romaji>Dai Dokoro you-hin</romaji>
+	</word>
+
+	<word>
+		<english>Garage</english>
+		<romaji>Sha-ko</romaji>
+	</word>
+
+	<word>
+		<english>Cupboard / Cabinet</english>
+		<romaji>To-da-na</romaji>
+	</word>
+
+	<word>
+		<english>Faucet/ Tap</english>
+		<romaji>Ja-gu-chi</romaji>
+	</word>
+
+	<word>
+		<english>Kitchen Sink</english>
+		<romaji>Na-ga-shi</romaji>
+	</word>
+
+	<word>
+		<english>Washstand</english>
+		<romaji>Sen-men-dai</romaji>
+	</word>
+
+	<word>
+		<english>Bathroom</english>
+		<romaji>Fu-ro-ba / Basu ru-mu</romaji>
+	</word>
+
+	<word>
+		<english>Toilet / Restroom / Lavatory</english>
+		<romaji>O-te-a-rai</romaji>
+	</word>
+
+	<word>
+		<english>Entrance / Hallway / Front Door</english>
+		<romaji>Gen-Kan</romaji>
+	</word>
 </vocab>
