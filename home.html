@@ -1,52 +1,17 @@
 <!DOCTYPE html>
 <html>
-<style>
-  .content{
-    max-width:980px;margin:auto
-  }
-  .center{
-    display:inline-block;width:auto;
-    text-align:center!important;
-  }
-  .margin-bottom{
-    margin-bottom:16px!important;
-  }
-
-  .clear {
-    content:"";display:table;clear:both;
-  }
-  .blue-grey{
-    color:#fff!important;background-color:#607d8b!important;
-  }
-
-  table{
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-  table td{
-    border-left: 1px solid;
-  }
-
-  table td:first-child { border-left: none; }
-
-  th, td{
-    width: 50%;
-    padding: 4px;
-    text-align:left;
-  }
-
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
 <body>
-  <!-- <div class="content center margin-bottom" style="max-width: 1500px;">
-    <div class="clear blue-grey"><h3>House Vocabulary</h3></div>
-  </div> -->
-  <h3 style="text-align: center;">House Vocabulary</h3>
+  <div class="w3-content w3-center w3-margin-bottom" style="max-width: 1500px;">
+    <div class="w3-clear w3-blue-grey"><h3>Film Vocabulary</h3></div>
+</div>
   <br><br>
+  <div class="w3-row-padding w3-margin-top">
   <table id="myTable"></table>
+</div>
   <script>
-    //var xmlFile ='https://raw.githubusercontent.com/waithethtetoo/LearnJP/main/vocab.xml';
-    var xmlFile ='https://drive.google.com/file/d/12ceHAe9MOaJGeJhbWC3Tkl6LsmoizNap/view?usp=drivesdk';
+    var xmlFile ='https://raw.githubusercontent.com/waithethtetoo/LearnJP/main/movie.xml';
 
     function loadDoc() {
       var xhttp = new XMLHttpRequest();
@@ -55,44 +20,24 @@
 
       xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
-          //myFunction(this.response);
           myFunction1(this.response);
         }
       };
     }
-    function myFunction(xml) {
-      var i;
-      var parser = new DOMParser();
-      var xmlDoc = parser.parseFromString(xml, "text/xml");
-
-      var table="<tr><th>English</th><th>Romaji</th></tr>";
-      var x = xmlDoc.getElementsByTagName("word");
-      for (i = 0; i <x.length; i++) { 
-        table += "<tr><td>" +
-        x[i].getElementsByTagName("english")[0].childNodes[0].nodeValue +
-        "</td><td>" +
-        x[i].getElementsByTagName("romaji")[0].childNodes[0].nodeValue +
-        "</td></tr>";
-      }
-      document.getElementById("myTable").innerHTML = table;
-    }
-
-
+    
     function myFunction1(xml) {
       var i;
       var parser = new DOMParser();
       var xmlDoc = parser.parseFromString(xml, "text/xml");
 
-      var table="<tr><th>English</th><th>Romaji</th><th>Romaji1</th></tr>";
+      var table="<tr><th>English</th><th>Romaji</th></tr>";
       var x = xmlDoc.getElementsByTagName("movie");
       for (i = 0; i <x.length; i++) { 
         table += "<tr><td>" +
         x[i].getElementsByTagName("english")[0].childNodes[0].nodeValue +
         "</td><td>" +
         x[i].getElementsByTagName("romaji")[0].childNodes[0].nodeValue +
-        "</td></tr>" +
-        x[i].getElementsByTagName("romaji1")[0].childNodes[0].nodeValue +
-        "</td></tr>";
+        "</td></tr>" ;
       }
       document.getElementById("myTable").innerHTML = table;
     }
