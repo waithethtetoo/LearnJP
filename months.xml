@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<title>Talking about Months</title>
+	<word>
+		<english>What month is it?</english>
+		<romaji>Nan gatsu desu ka.</romaji>
+	</word>
+
+	<word>
+		<english>January</english>
+		<romaji>ichi-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>February</english>
+		<romaji>ni-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>March</english>
+		<romaji>San-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>April</english>
+		<romaji>shi-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>May</english>
+		<romaji>go-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>June</english>
+		<romaji>roku-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>July</english>
+		<romaji>Shi-chi-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>August</english>
+		<romaji>Hachi-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>September</english>
+		<romaji>Ku-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>October</english>
+		<romaji>jū-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>November</english>
+		<romaji>jūichi-gatsu</romaji>
+	</word>
+
+	<word>
+		<english>December</english>
+		<romaji>jūni-gatsu</romaji>
+	</word>
+</vocab>

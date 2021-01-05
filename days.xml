@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<title>Talking about Days</title>
+	<word>
+		<english>Monday</english>
+		<romaji>Getsu-yōbi</romaji>
+	</word>
+
+	<word>
+		<english>Tuesday</english>
+		<romaji>Ka-yōbi</romaji>
+	</word>
+
+	<word>
+		<english>Wednesday</english>
+		<romaji>Sui-yōbi</romaji>
+	</word>
+
+	<word>
+		<english>Thursday</english>
+		<romaji>Moku-yōbi</romaji>
+	</word>
+
+	<word>
+		<english>Friday</english>
+		<romaji>Kin-yōbi</romaji>
+	</word>
+
+	<word>
+		<english>Saturday</english>
+		<romaji>Do-yōbi</romaji>
+	</word>
+
+	<word>
+		<english>Sunday</english>
+		<romaji>Nichi-yōbi</romaji>
+	</word>
+
+	<word>
+		<english>Week</english>
+		<romaji>Shū</romaji>
+	</word>
+
+	<word>
+		<english>The day before yesterday</english>
+		<romaji>O-to-to-i</romaji>
+	</word>
+
+	<word>
+		<english>Yesterday</english>
+		<romaji>Kinō</romaji>
+	</word>
+
+	<word>
+		<english>Today</english>
+		<romaji>Kyō</romaji>
+	</word>
+
+	<word>
+		<english>Tomorrow</english>
+		<romaji>A-shi-ta</romaji>
+	</word>
+
+	<word>
+		<english>The day after tomorrow</english>
+		<romaji>A-satte</romaji>
+	</word>
+</vocab>

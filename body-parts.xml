@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<title>Body Parts</title>
+	<word>
+		<english>Muscle</english>
+		<romaji>kin-ni-ku</romaji>
+	</word>
+
+	<word>
+		<english>Bone</english>
+		<romaji>Ho-ne</romaji>
+	</word>
+
+	<word>
+		<english>Backbone</english>
+		<romaji>Se-bo-ne</romaji>
+	</word>
+
+	<word>
+		<english>Head</english>
+		<romaji>A-ta-ma</romaji>
+	</word>
+
+	<word>
+		<english>Neck</english>
+		<romaji>Ku-bi</romaji>
+	</word>
+
+	<word>
+		<english>Angle</english>
+		<romaji>Ashi-kubi</romaji>
+	</word>
+
+	<word>
+		<english>Arm</english>
+		<romaji>U-de</romaji>
+	</word>
+
+	<word>
+		<english>Elbow</english>
+		<romaji>Hi-ji</romaji>
+	</word>
+
+	<word>
+		<english>Wrist</english>
+		<romaji>Te-ku-bi</romaji>
+	</word>
+
+	<word>
+		<english>Hand</english>
+		<romaji>Te</romaji>
+	</word>
+
+	<word>
+		<english>Finger</english>
+		<romaji>Yu-bi</romaji>
+	</word>
+
+	<word>
+		<english>Chest</english>
+		<romaji>Mu-ne</romaji>
+	</word>
+
+	<word>
+		<english>Leg/Foot</english>
+		<romaji>A-shi</romaji>
+	</word>
+
+	<word>
+		<english>Skin</english>
+		<romaji>Ha-da</romaji>
+	</word>
+
+	<word>
+		<english>Stomach</english>
+		<romaji>I</romaji>
+	</word>
+
+	<word>
+		<english>Blood</english>
+		<romaji>Ke-tsu-e-ki</romaji>
+	</word>
+
+	<word>
+		<english>Body</english>
+		<romaji>Ka-ra-da</romaji>
+	</word>
+
+	<word>
+		<english>Knee</english>
+		<romaji>Hi-za</romaji>
+	</word>
+
+	<word>
+		<english>Back</english>
+		<romaji>Se-na-ka</romaji>
+	</word>
+</vocab>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<title>Family Members</title>
+	<word>
+		<english>Family</english>
+		<romaji>Ka-zo-ku</romaji>
+	</word>
+
+	<word>
+		<english>Mother</english>
+		<romaji>O-kā-san</romaji>
+	</word>
+
+	<word>
+		<english>Father</english>
+		<romaji>O-tō-san</romaji>
+	</word>
+
+	<word>
+		<english>Wife</english>
+		<romaji>Tsu-me</romaji>
+	</word>
+
+	<word>
+		<english>Husband</english>
+		<romaji>Otto</romaji>
+	</word>
+
+	<word>
+		<english>Parent</english>
+		<romaji>O-ya</romaji>
+	</word>
+
+	<word>
+		<english>Child</english>
+		<romaji>Ko-do-mo</romaji>
+	</word>
+
+	<word>
+		<english>Daughter</english>
+		<romaji>Mu-su-me</romaji>
+	</word>
+
+	<word>
+		<english>Son</english>
+		<romaji>Mu-so-ko</romaji>
+	</word>
+
+	<word>
+		<english>Sister</english>
+		<romaji>A-ne</romaji>
+	</word>
+
+	<word>
+		<english>Brothers</english>
+		<romaji>Kyōdai</romaji>
+	</word>
+
+	<word>
+		<english>Younger Sister</english>
+		<romaji>Imōto</romaji>
+	</word>
+
+	<word>
+		<english>Younger Brother</english>
+		<romaji>O-tō-to</romaji>
+	</word>
+
+	<word>
+		<english>Older Brother</english>
+		<romaji>A-ni</romaji>
+	</word>
+
+	<word>
+		<english>Great-Grandmother</english>
+		<romaji>sōsobo</romaji>
+	</word>
+
+	<word>
+		<english>Great-Grandfather</english>
+		<romaji>sōsofu</romaji>
+	</word>
+
+	<word>
+		<english>Grandmother</english>
+		<romaji>O-bā-san</romaji>
+	</word>
+
+	<word>
+		<english>Grandfather</english>
+		<romaji>O-jī-san</romaji>
+	</word>
+
+	<word>
+		<english>Grandchild</english>
+		<romaji>Ma-go</romaji>
+	</word>
+
+	<word>
+		<english>Granddaughter</english>
+		<romaji>Ma-go-mu-su-me</romaji>
+	</word>
+
+	<word>
+		<english>Grandson</english>
+		<romaji>Ma-go-mu-su-ko</romaji>
+	</word>
+
+	<word>
+		<english>Aunt</english>
+		<romaji>O-ba</romaji>
+	</word>
+
+	<word>
+		<english>Uncle</english>
+		<romaji>O-ji</romaji>
+	</word>
+
+	<word>
+		<english>niece</english>
+		<romaji>me-i</romaji>
+	</word>
+
+	<word>
+		<english>nephew</english>
+		<romaji>Oi</romaji>
+	</word>
+</vocab>
