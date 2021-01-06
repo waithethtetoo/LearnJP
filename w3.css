@@ -153,6 +153,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-cyan,.w3-hover-cyan:hover{color:#000!important;background-color:#00bcd4!important}
 .w3-blue-grey,.w3-hover-blue-grey:hover,.w3-blue-gray,.w3-hover-blue-gray:hover{color:#fff!important;background-color:#607d8b!important}
 .w3-green,.w3-hover-green:hover{color:#fff!important;background-color:#4CAF50!important}
+.w3-light-gray{color: #fff!important;background-color: #eaf2ee!important}
 .w3-light-green,.w3-hover-light-green:hover{color:#000!important;background-color:#8bc34a!important}
 .w3-indigo,.w3-hover-indigo:hover{color:#fff!important;background-color:#3f51b5!important}
 .w3-khaki,.w3-hover-khaki:hover{color:#000!important;background-color:#f0e68c!important}
@@ -316,18 +317,18 @@ th, td{
 }
 .sidenav {
 	height: 100%;
-	width: 600px;
+	width: 60%;
 	position: fixed;
 	z-index: 1;
 	top: 0;
 	right: 0;
-	background-color: #607d8b;
+	background-color: #eaf2ee;
 	overflow-x: hidden;
 	padding-top: 20px;
 }
 .right-side{
 	height: 100%;
-	width: 400px;
+	width: 40%;
 	position: fixed;
 	z-index: 1;
 	top: 0;
