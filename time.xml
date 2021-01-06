@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<title>Talking about Time in Japanese</title>
+	<word>
+		<english>Morning</english>
+		<romaji>A-sa</romaji>
+	</word>
+
+	<word>
+		<english>Evening</english>
+		<romaji>Yoru</romaji>
+	</word>
+
+	<word>
+		<english>Daytime</english>
+		<romaji>nicchū</romaji>
+	</word>
+
+	<word>
+		<english>Night-time</english>
+		<romaji>yoru</romaji>
+	</word>
+
+	<word>
+		<english>Hour</english>
+		<romaji>Ji kan</romaji>
+	</word>
+
+	<word>
+		<english>Minute</english>
+		<romaji>Fun</romaji>
+	</word>
+
+	<word>
+		<english>O'clock</english>
+		<romaji>Ji</romaji>
+	</word>
+
+	<word>
+		<english>Half past</english>
+		<romaji>Han</romaji>
+	</word>
+
+	<word>
+		<english>AM</english>
+		<romaji>Go-zen</romaji>
+	</word>
+
+	<word>
+		<english>PM</english>
+		<romaji>Go-go</romaji>
+	</word>
+
+	<word>
+		<english>What time is it now?</english>
+		<romaji>Ima nan-ji desu ka?</romaji>
+	</word>
+
+	<word>
+		<english>one o'clock</english>
+		<romaji>ichi-ji</romaji>
+	</word>
+
+	<word>
+		<english>two o'clock</english>
+		<romaji>ni-ji</romaji>
+	</word>
+
+	<word>
+		<english>three o'clock</english>
+		<romaji>san-ji</romaji>
+	</word>
+
+	<word>
+		<english>four o'clock</english>
+		<romaji>yo-ji</romaji>
+	</word>
+
+	<word>
+		<english>five o'clock</english>
+		<romaji>go-ji</romaji>
+	</word>
+
+	<word>
+		<english>six o'clock</english>
+		<romaji>roku-ji</romaji>
+	</word>
+
+	<word>
+		<english>seven o'clock</english>
+		<romaji>shichi-ji</romaji>
+	</word>
+
+	<word>
+		<english>eight o'clock</english>
+		<romaji>hachi-ji</romaji>
+	</word>
+
+	<word>
+		<english>nine o'clock</english>
+		<romaji>ku-ji</romaji>
+	</word>
+
+	<word>
+		<english>ten o'clock</english>
+		<romaji>jū-ji</romaji>
+	</word>
+
+	<word>
+		<english>eleven o'clock</english>
+		<romaji>jū ichi-ji</romaji>
+	</word>
+
+	<word>
+		<english>twelve o'clock</english>
+		<romaji>jū ni-ji</romaji>
+	</word>
+</vocab>
