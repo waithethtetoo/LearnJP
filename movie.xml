@@ -1,80 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<movie_vocab>
-
-   <movie category = "Technical" id = "firstelement">
+<vocab>
+   <title>Movie</title>
+   <word>
        <english>film</english>
        <romaji>e i ga</romaji>
-       <romaji1>-</romaji1>
-   </movie>
-   <movie>
+   </word>
+   <word>
        <english>cinema</english>
-       <romaji>shi ne ma</romaji>
-       <romaji1>e i ga kan</romaji1>
-   </movie>
-   <movie>
+       <romaji>shi ne ma / e i ga kan</romaji>
+   </word>
+   <word>
        <english>film festival</english>
        <romaji>ei ga sai</romaji>
-       <romaji1>-</romaji1>
-   </movie>
-   <movie>
+   </word>
+   <word>
        <english>artist</english>
-       <romaji>aa ti su to</romaji>
-       <romaji1>gei ju tsu ka</romaji1>
-   </movie>
-   <movie>
+       <romaji>aa ti su to / gei ju tsu ka</romaji>
+   </word>
+   <word>
        <english>acting</english>
        <romaji>en gi</romaji>
-       <romaji1>-</romaji1>
-   </movie>
-   <movie>
+   </word>
+   <word>
        <english>actor</english>
-       <romaji>hai yuu</romaji>
-       <romaji1>dan yuu</romaji1>
-   </movie>
-   <movie>
+       <romaji>hai yuu / dan yuu</romaji>
+   </word>
+   <word>
        <english>actriss</english>
-       <romaji>aku to ri su</romaji>
-       <romaji1>jo yuu</romaji1>
-   </movie>
-   <movie>
+       <romaji>aku to ri su / jo yuu</romaji>
+   </word>
+   <word>
        <english>director</english>
-       <romaji>di re ku taa</romaji>
-       <romaji1>kan to ku</romaji1>
-   </movie>
-   <movie>
+       <romaji>di re ku taa / kan to ku</romaji>
+   </word>
+   <word>
        <english>author, writer</english>
        <romaji>cho sha</romaji>
-       <romaji1>-</romaji1>
-   </movie>
-   <movie>
+   </word>
+   <word>
        <english>writer</english>
        <romaji>sak ka</romaji>
-       <romaji1>-</romaji1>
-   </movie>
-   <movie>
+   </word>
+   <word>
        <english>projector</english>
-       <romaji>pu ro jeku taa</romaji>
-       <romaji1>ei sha ki</romaji1>
-   </movie>
-   <movie>
+       <romaji>pu ro jeku taa / ei sha ki</romaji>
+   </word>
+   <word>
        <english>broadcasting</english>
        <romaji>hou sou</romaji>
-       <romaji1>-</romaji1>
-   </movie>
-   <movie>
+   </word>
+   <word>
        <english>screenplay</english>
        <romaji>Kya ku hon</romaji>
-       <romaji1>-</romaji1>
-   </movie>
-   <movie>
+   </word>
+   <word>
        <english>television</english>
        <romaji>te re bi</romaji>
-       <romaji1>-</romaji1>
-   </movie>
-   <movie>
+   <word>
        <english>subtitle</english>
        <romaji>ji ma ku</romaji>
-       <romaji1>-</romaji1>
-   </movie>   
+   </word>   
 
-</movie_vocab>
+</vocab>
