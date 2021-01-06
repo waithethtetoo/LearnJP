@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Learn Japanese Language</title>
+	<link rel="stylesheet" href="w3.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+	<div class="right-side">
+		<h3>Other Lessons</h3>
+	</div>
+	<div class="sidenav">
+		<ul>
+			<h3>Vocabulary Lists</h3>
+			<li id="0"><a href="home.html">Movie</a></li>
+			<li id="1"><a href="home.html">Numbers</a></li>
+			<li id="2"><a href="home.html">Arounds the House</a></li>
+			<li id="3"><a href="home.html">Go outside</a></li>
+			<li id="4"><a href="home.html">Positive Emotions</a></li>
+			<li id="5"><a href="home.html">Daily Routines</a></li>
+			<li id="6"><a href="home.html">Family Members</a></li>
+			<li id="7"><a href="home.html">Body Parts in Japanese</a></li>
+			<li id="8"><a href="home.html">Common Ways to say Hello</a></li>
+			<li id="9"><a href="home.html">Common Ways to say Thank you</a></li>
+			<li id="10"><a href="home.html">Common Ways to say Sorry</a></li>
+			<li id="11"><a href="home.html">Common Ways to say Good Bye</a></li>
+			<li id="12"><a href="home.html">Talking about Days in Japanese</a></li>
+			<li id="13"><a href="home.html">Talking about Months in Japanese</a></li>
+			<li id="14"><a href="home.html">Talking about Colors in Japanese</a></li>
+			<li id="15"><a href="home.html">Talking about Time in Japanese</a></li>
+		<uol>
+	</div>
+	<script>
+		$(document).ready(function(){
+			$("li").click(function(){
+				var selected= $(this).attr("id");
+				localStorage.setItem("selected",selected);
+			});
+		})
+	</script>
+</body>
+</html>
