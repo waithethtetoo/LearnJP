@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<title>Common Ways to Say Hello</title>
+	<word>
+		<english>Good morning</english>
+		<romaji>Ohayō</romaji>
+	</word>
+
+	<word>
+		<english>Good evening</english>
+		<romaji>Konbanwa</romaji>
+	</word>
+
+	<word>
+		<english>How are you?</english>
+		<romaji>O-genki desu ka?</romaji>
+	</word>
+
+	<word>
+		<english>How have you been?</english>
+		<romaji>Ikaga o-sugoshi desu ka?</romaji>
+	</word>
+
+	<word>
+		<english>What's up?</english>
+		<romaji>Chōshi wa dō desu ka?
+</romaji>
+	</word>
+
+	<word>
+		<english>Long time no see</english>
+		<romaji>O-hisashiburi desu</romaji>
+	</word>
+
+	<word>
+		<english>Hey!</english>
+		<romaji>roŌi!ku</romaji>
+	</word>
+
+	<word>
+		<english>Good afternoon</english>
+		<romaji>Konnichiwa</romaji>
+	</word>
+
+	<word>
+		<english>How's it going?</english>
+		<romaji>Dō yo?</romaji>
+	</word>
+
+	<word>
+		<english>It's nice to see you again</english>
+		<romaji>Mata oai dekite ureshii desu.
+</romaji>
+	</word>
+
+	<word>
+		<english>How's everything?</english>
+		<romaji>Chōshi dō desu ka?</romaji>
+	</word>
+
+	<word>
+		<english>How's your day?</english>
+		<romaji>Kyō wa donna kanji?</romaji>
+	</word>
+
+	<word>
+		<english>Yo!</english>
+		<romaji>Ossu!</romaji>
+	</word>
+
+	<word>
+		<english>Hello!</english>
+		<romaji>kon-ni-chi-wa</romaji>
+	</word>
+
+	<word>
+		<english>It's nice to meet you</english>
+		<romaji>Oai dekite kōei desu</romaji>
+	</word>
+	
+</vocab>

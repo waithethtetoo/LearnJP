@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<title>Numbers</title>
+	<word>
+		<english>0</english>
+		<romaji>rei</romaji>
+	</word>
+
+	<word>
+		<english>1</english>
+		<romaji>ichi</romaji>
+	</word>
+
+	<word>
+		<english>2</english>
+		<romaji>ni</romaji>
+	</word>
+
+	<word>
+		<english>3</english>
+		<romaji>san</romaji>
+	</word>
+
+	<word>
+		<english>4</english>
+		<romaji>Shi, yon</romaji>
+	</word>
+
+	<word>
+		<english>5</english>
+		<romaji>go</romaji>
+	</word>
+
+	<word>
+		<english>6</english>
+		<romaji>roku</romaji>
+	</word>
+
+	<word>
+		<english>7</english>
+		<romaji>shichi, nana</romaji>
+	</word>
+
+	<word>
+		<english>8</english>
+		<romaji>hachi</romaji>
+	</word>
+
+	<word>
+		<english>9</english>
+		<romaji>kyū</romaji>
+	</word>
+
+	<word>
+		<english>10</english>
+		<romaji>jū</romaji>
+	</word>
+
+	<word>
+		<english>21</english>
+		<romaji>ni-jū ichi</romaji>
+	</word>
+
+	<word>
+		<english>22</english>
+		<romaji>ni-jū ni</romaji>
+	</word>
+
+	<word>
+		<english>33</english>
+		<romaji>san-jū san</romaji>
+	</word>
+
+	<word>
+		<english>44</english>
+		<romaji>yon-jū yon</romaji>
+	</word>
+
+	<word>
+		<english>55</english>
+		<romaji>go-jū go</romaji>
+	</word>
+
+	<word>
+		<english>66</english>
+		<romaji>roku-jū roku</romaji>
+	</word>
+
+	<word>
+		<english>77</english>
+		<romaji>nana-jū nana</romaji>
+	</word>
+
+	<word>
+		<english>88</english>
+		<romaji>hachi-jū hachi</romaji>
+	</word>
+
+	<word>
+		<english>99</english>
+		<romaji>kyū-jū kyū</romaji>
+	</word>
+
+	<word>
+		<english>100</english>
+		<romaji>hyaku</romaji>
+	</word>
+
+	<word>
+		<english>1,000</english>
+		<romaji>sen</romaji>
+	</word>
+
+	<word>
+		<english>2,000</english>
+		<romaji>ni-sen</romaji>
+	</word>
+
+	<word>
+		<english>3,000</english>
+		<romaji>san-zen</romaji>
+	</word>
+
+	<word>
+		<english>4,000</english>
+		<romaji>yon-sen</romaji>
+	</word>
+</vocab>
