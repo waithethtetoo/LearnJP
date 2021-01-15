@@ -2,7 +2,12 @@
 <html>
 <head>
   <title>Learn Japanese Language</title>
-  <link rel="stylesheet" href="w3.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/w3.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
   <style>
@@ -27,92 +32,90 @@
         <div class="w3-card-4 w3-margin w3-white">
           <div class="w3-container">
             <h4>Other Lessons</h4>
-             <p><h1>Other lessons are here!!</h1></p>
+            <p><h1 style="color: #DC143C">Other lessons are here!!</h1></p>
           </div>
         </div>
+        <!--End of w3-half container-->
       </div>
 
       <div class="w3-half w3-container">
-       <!-- Vocabulary-->
-       <div class="w3-card-4 w3-margin w3-white">
-        <div class="w3-container">
-          <h3><b>Vocabulary</b></h3>
+        <!-- Vocabulary-->
+        <div class="w3-card-4 w3-margin w3-white">
+          <div class="w3-container">
+            <h3><b>Vocabulary</b></h3>
+          </div>
+
+          <div class="w3-container">
+            <div class="dropdown">
+              <h6 class="dropdown-toggle"  data-toggle="dropdown">Family</h6>
+              <div class="dropdown-menu">
+                <a id="0" class="dropdown-item" href="home.html">Movie</a>
+                <a id="6" class="dropdown-item" href="home.html">Family Members</a>
+                <a id="3" class="dropdown-item" href="home.html">Go Outside</a>
+                <a id="16" class="dropdown-item" href="home.html">Food and Drinks</a>
+              </div>
+            </div>
+
+            <div class="dropdown">
+              <h6 class="dropdown-toggle"  data-toggle="dropdown">Self</h6>
+              <div class="dropdown-menu">
+                <a id="4" class="dropdown-item" href="home.html">Positive Emotions</a>
+                <a id="5" class="dropdown-item" href="home.html">Daily Routines</a>
+                <a id="7" class="dropdown-item" href="home.html">Body Parts</a>
+              </div>
+            </div>
+
+            <div class="dropdown">
+              <h6 class="dropdown-toggle"  data-toggle="dropdown">Around the House</h6>
+              <div class="dropdown-menu">
+                <a id="2" class="dropdown-item" href="home.html">Around the House</a>
+              </div>
+            </div>
+
+            <div class="dropdown">
+              <h6 class="dropdown-toggle"  data-toggle="dropdown">Counting</h6>
+              <div class="dropdown-menu">
+                <a id="1" class="dropdown-item" href="home.html">Numbers</a>
+              </div>
+            </div>
+
+            <div class="dropdown">
+              <h6 class="dropdown-toggle"  data-toggle="dropdown">Talking about</h6>
+              <div class="dropdown-menu">
+                <a id="12" class="dropdown-item" href="home.html">Days in Japanese</a>
+                <a id="13" class="dropdown-item" href="home.html">Months in Japanese</a>
+                <a id="14" class="dropdown-item" href="home.html">Colors in Japanese</a>
+                <a id="15" class="dropdown-item" href="home.html">Time in Japanese</a>
+              </div>
+            </div>
+
+            <div class="dropdown">
+              <h6 class="dropdown-toggle"  data-toggle="dropdown">Common ways to say</h6>
+              <div class="dropdown-menu">
+                <a id="8" class="dropdown-item" href="home.html">Hello</a>
+                <a id="9" class="dropdown-item" href="home.html">Thank You</a>
+                <a id="10" class="dropdown-item" href="home.html">Sorry</a>
+                <a id="11" class="dropdown-item" href="home.html">Good Bye</a>
+              </div>
+            </div>
+            <!--End of Vocabulary-->
+          </div>
+          <!--End of w3-half container-->
+          </div>
+          <!--End of Grid-->
         </div>
-
-        <div class="w3-container">
-          <ul class="w3-ul w3-hoverable w3-white">
-            <li id="0" class="w3-padding-16">
-              <span><a href="home.html">Movie</a></span>
-            </li>
-            <li id="1" class="w3-padding-16">
-              <span><a href="home.html">Numbers</a></span>
-            </li>
-            <li id="2" class="w3-padding-16">
-              <span><a href="home.html">Arounds the House</a></span>
-            </li>
-            <li id="3" class="w3-padding-16">
-              <span><a href="home.html">Go outside</a></span>
-            </li>
-            <li id="4" class="w3-padding-16">
-              <span><a href="home.html">Positive Emotions</a></span>
-            </li>
-            <li id="5" class="w3-padding-16">
-              <span><a href="home.html">Daily Routines</a></span>
-            </li>
-            <li id="6" class="w3-padding-16">
-              <span><a href="home.html">Family Members</a></span>
-            </li>
-            <li id="7" class="w3-padding-16">
-              <span><a href="home.html">Body Parts in Japanese</a></span>
-            </li>
-            <li id="8" class="w3-padding-16">
-              <span><a href="home.html">Common Ways to say Hello</a></span>
-            </li>
-            <li id="9" class="w3-padding-16">
-              <span><a href="home.html">Common Ways to say Thank You</a></span>
-            </li>
-            <li id="10" class="w3-padding-16">
-              <span><a href="home.html">Common Ways to say Sorry</a></span>
-            </li>
-            <li id="11" class="w3-padding-16">
-              <span><a href="home.html">Common Ways to say Good Bye</a></span>
-            </li>
-            <li id="12" class="w3-padding-16">
-              <span><a href="home.html">Talking about Days in Japanese</a></span>
-            </li>
-            <li id="13" class="w3-padding-16">
-              <span><a href="home.html">Talking about Months in Japanese</a></span>
-            </li>
-            <li id="14" class="w3-padding-16">
-              <span><a href="home.html">Talking about Colors in Japanese</a></span>
-            </li>
-            <li id="15" class="w3-padding-16">
-              <span><a href="home.html">Talking about Time in Japanese</a></span>
-            </li> 
-          </ul>
-        </div>
-      </div>
-      <!-- END Vocabulary -->
-    </div>
-
-    <!-- END GRID -->
-  </div><br>
-
-  <!-- END w3-content -->
-</div>
-
-<!-- Footer -->
-<footer class="w3-container w3-center w3-dark-grey w3-margin-top">
-  <p>Powered by LJP</p>
-</footer>
-
-<script>
-  $(document).ready(function(){
-    $("li").click(function(){
-      var selected= $(this).attr("id");
-      localStorage.setItem("selected",selected);
-    });
-  })
-</script>
+        <!--End of content-->
+  <script>
+    $(document).ready(function(){
+      $("a").click(function(){
+        var selected= $(this).attr("id");
+        localStorage.setItem("selected",selected);
+      });
+    })
+  </script>
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Powered by LJP</p>
+  </footer>
 </body>
 </html>
