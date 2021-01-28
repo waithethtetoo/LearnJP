@@ -2,167 +2,101 @@
 <vocab>
 	<title>Regular Verb 3</title>
 	<word>
-		<english>Clear Sky</english>
-		<romaji>Ha Re Masu</romaji>
+		<english>Be Covered With</english>
+		<romaji>Ka Bu Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Be Existence ( For Livings )</english>
-		<romaji>I Masu</romaji>
+		<english>Run</english>
+		<romaji>Ki Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Be Existence ( For Non-livings )</english>
-		<romaji>A Ri Masu</romaji>
+		<english>Bloom</english>
+		<romaji>Sa Ki Masu</romaji>
 	</word>
 
 	<word>
-		<english>Wake Up</english>
-		<romaji>O Ki Masu</romaji>
+		<english>Know</english>
+		<romaji>Shi Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Sleep</english>
-		<romaji>Ne Masu</romaji>
+		<english>Sit</english>
+		<romaji>Su Wa Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Leave / Go Out</english>
-		<romaji>De Ka Ke Masu</romaji>
+		<english>Make</english>
+		<romaji>Tsu Ku Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Wear</english>
-		<romaji>Ki Masu</romaji>
+		<english>Play</english>
+		<romaji>A Zo Bi Masu</romaji>
 	</word>
 
 	<word>
-		<english>Take Shower</english>
-		<romaji>A Bi Masu</romaji>
+		<english>Be In Trouble</english>
+		<romaji>Ko Ma Ri Masu</romaji>
+	</word>
+	<word>
+		<english>Climb</english>
+		<romaji>No Bo Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Put In</english>
-		<romaji>I Re Masu</romaji>
+		<english>Run</english>
+		<romaji>Ha Shi Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Disappear</english>
-		<romaji>Ki E Masu</romaji>
+		<english>Pull / Play Instrument</english>
+		<romaji>Hi Ki Masu</romaji>
 	</word>
 
 	<word>
-		<english>Close / Occupy</english>
-		<romaji>Shi Me Masu</romaji>
+		<english>Start / Begin</english>
+		<romaji>Ha Ji Ma Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Work For A Company</english>
-		<romaji>Tsu To Me Masu</romaji>
+		<english>Turn</english>
+		<romaji>Ma Ga Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Show</english>
-		<romaji>Mi Se Masu</romaji>
+		<english>Rest</english>
+		<romaji>Ya Su Mi Masu</romaji>
 	</word>
 
 	<word>
-		<english>Forget</english>
-		<romaji>Wa Su Re Masu</romaji>
+		<english>Call Out For</english>
+		<romaji>Ryo Bi Masu</romaji>
 	</word>
 
 	<word>
-		<english>Arrange / Properly</english>
-		<romaji>Ka Ta Zu Ke Masu</romaji>
+		<english>Cross / Pass</english>
+		<romaji>Wa Ta Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Stop</english>
-		<romaji>To Me Masu</romaji>
+		<english>Shave</english>
+		<romaji>So Ri Masu</romaji>
 	</word>
 
 	<word>
-		<english>Make Call / Wear Spectacles</english>
-		<romaji>Ka Ke Masu</romaji>
+		<english>Remove Clothes</english>
+		<romaji>Nu Gi Masu</romaji>
 	</word>
 
 	<word>
-		<english>Born</english>
-		<romaji>U Ma Re Masu</romaji>
+		<english>Touch</english>
+		<romaji>Sa Wa Gi Masu</romaji>
 	</word>
 
 	<word>
-		<english>See</english>
-		<romaji>Mi Masu</romaji>
-	</word>
-
-	<word>
-		<english>Get Off</english>
-		<romaji>O Ri Masu</romaji>
-	</word>
-
-	<word>
-		<english>Go Out</english>
-		<romaji>De Masu</romaji>
-	</word>
-
-	<word>
-		<english>Eat</english>
-		<romaji>Ta Be Masu</romaji>
-	</word>
-
-	<word>
-		<english>Remember</english>
-		<romaji>O Bo E Masu</romaji>
-	</word>
-
-	<word>
-		<english>Think</english>
-		<romaji>Kan Ga E Masu</romaji>
-	</word>
-
-	<word>
-		<english>Fall / Drop</english>
-		<romaji>O Chi Masu</romaji>
-	</word>
-
-	<word>
-		<english>Borrow</english>
-		<romaji>Ka Ri Masu</romaji>
-	</word>
-
-	<word>
-		<english>Answer</english>
-		<romaji>Ko Ta E Masu</romaji>
-	</word>
-
-	<word>
-		<english>Get Tired</english>
-		<romaji>Tsu Ka Re Masu</romaji>
-	</word>
-
-	<word>
-		<english>Can Do</english>
-		<romaji>De Ki Masu</romaji>
-	</word>
-
-	<word>
-		<english>Put In Order</english>
-		<romaji>Na Ra Be Masu</romaji>
-	</word>
-
-	<word>
-		<english>Get Dirty</english>
-		<romaji>Ryo Go Re Masu</romaji>
-	</word>
-
-	<word>
-		<english>Throw</english>
-		<romaji>Su Te Masu</romaji>
-	</word>
-
-	<word>
-		<english>Inquire</english>
-		<romaji>Ta Zu Ne Masu</romaji>
+		<english>Be Happy</english>
+		<romaji>Ryo Ro Ko Bi Masu</romaji>
 	</word>
 </vocab>
