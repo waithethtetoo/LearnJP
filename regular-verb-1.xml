@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<title>Regular Verb 1</title>
+	<word>
+		<english>Go</english>
+		<romaji>I Ki Masu</romaji>
+	</word>
+
+	<word>
+		<english>Talk</english>
+		<romaji>Ha Na Shi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Wait</english>
+		<romaji>Ma Chi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Drink</english>
+		<romaji>No Mi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Get In</english>
+		<romaji>No Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Fly</english>
+		<romaji>To Bi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Buy</english>
+		<romaji>Ka I Masu</romaji>
+	</word>
+
+	<word>
+		<english>Say</english>
+		<romaji>I I Masu</romaji>
+	</word>
+
+	<word>
+		<english>Meet</english>
+		<romaji>A I Masu</romaji>
+	</word>
+
+	<word>
+		<english>Wash</english>
+		<romaji>A Ra I Masu</romaji>
+	</word>
+
+	<word>
+		<english>Write</english>
+		<romaji>Ka Ki Masu</romaji>
+	</word>
+
+	<word>
+		<english>Listen</english>
+		<romaji>Ki Ki Masu</romaji>
+	</word>
+
+	<word>
+		<english>Swim</english>
+		<romaji>O Ryo Gu Masu</romaji>
+	</word>
+
+	<word>
+		<english>Mail Send</english>
+		<romaji>Da Shi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Lend</english>
+		<romaji>Ka Shi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Point Out / Indicate</english>
+		<romaji>Sa Shi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Have / Hold / Receive</english>
+		<romaji>Mo Ra I Masu</romaji>
+	</word>
+
+	<word>
+		<english>Smoke</english>
+		<romaji>Su I Masu</romaji>
+	</word>
+
+	<word>
+		<english>Ask / Request</english>
+		<romaji>Ta No Mi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Arrive</english>
+		<romaji>Tsu Ki Masu</romaji>
+	</word>
+
+	<word>
+		<english>Stop / Stay</english>
+		<romaji>To Ma Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Become</english>
+		<romaji>Na Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Die</english>
+		<romaji>Shi Ni Masu</romaji>
+	</word>
+
+	<word>
+		<english>Carry</english>
+		<romaji>Ha Ko Bi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Learn</english>
+		<romaji>Na Ra I Masu / Ma Na Bi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Teach</english>
+		<romaji>O Shi E Masu</romaji>
+	</word>
+
+	<word>
+		<english>Read</english>
+		<romaji>Ryo Mi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Chew / Bite</english>
+		<romaji>Ka Mi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Reside</english>
+		<romaji>Su Mi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Come Back Home / Return</english>
+		<romaji>Ka E Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Take</english>
+		<romaji>To Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Understand</english>
+		<romaji>Wa Ka Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Walk</english>
+		<romaji>A Ru Ki Masu</romaji>
+	</word>
+
+	<word>
+		<english>Sing</english>
+		<romaji>U Ta I Masu</romaji>
+	</word>
+
+	<word>
+		<english>Sell</english>
+		<romaji>U Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Place / Put</english>
+		<romaji>O Ki Masu</romaji>
+	</word>
+
+	<word>
+		<english>Press / Push</english>
+		<romaji>O Shi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Finish</english>
+		<romaji>O Wa Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Give Back</english>
+		<romaji>Ka E Shi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Require</english>
+		<romaji>Ka Ka Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Be Covered With</english>
+		<romaji>Ka Bu Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Run</english>
+		<romaji>Ki Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Bloom</english>
+		<romaji>Sa Ki Masu</romaji>
+	</word>
+
+	<word>
+		<english>Know</english>
+		<romaji>Shi Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Sit</english>
+		<romaji>Su Wa Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Make</english>
+		<romaji>Tsu Ku Ri Masu</romaji>
+	</word>
+
+	<word>
+		<english>Play</english>
+		<romaji>A Zo Bi Masu</romaji>
+	</word>
+
+	<word>
+		<english>Be In Trouble</english>
+		<romaji>Ko Ma Ri Masu</romaji>
+	</word>
+</vocab>
