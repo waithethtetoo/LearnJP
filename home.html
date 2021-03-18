@@ -62,14 +62,11 @@
       var parser = new DOMParser();
       var xmlDoc = parser.parseFromString(xml, "text/xml");
 
-      var table="<tr><th>Myanmar</th><th>English</th><th>Romaji</th></tr>";
+      var table="<tr><th>English</th><th>Romaji</th></tr>";
       var title = xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue;
       var x = xmlDoc.getElementsByTagName("word");
       for (i = 0; i <x.length; i++) { 
         table += "<tr><td>" +
-        x[i].getElementsByTagName("myanmar")[0].childNodes[0].nodeValue +
-        "</td><td>" +
-        "<tr><td>" +
         x[i].getElementsByTagName("english")[0].childNodes[0].nodeValue +
         "</td><td>" +
         x[i].getElementsByTagName("romaji")[0].childNodes[0].nodeValue +
